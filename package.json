@@ -19,7 +19,7 @@
   "homepage": "https://github.com/JiawenZhu/mothersdaymusic#readme",
   "dependencies": {
     "consolidate": "^0.15.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "swig": "^1.4.2"
   }
 }
